@@ -1,6 +1,6 @@
-name = "{{project-name}}"
+name = "mediocre"
 type = "javascript"
-account_id = ""
+account_id = "c9d36436cc19b660d3e522f7bad23659"
 workers_dev = true
 route = ""
 zone_id = ""
